@@ -1,0 +1,15 @@
+package com.ok.beans;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+@Component("std")
+public class Student {
+
+	@Autowired
+	@Qualifier("java")
+	private ICourseMaterial material;
+	
+	public 
+}

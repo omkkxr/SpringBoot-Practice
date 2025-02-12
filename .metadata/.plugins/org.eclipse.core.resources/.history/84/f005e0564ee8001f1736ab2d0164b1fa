@@ -1,0 +1,14 @@
+package com.ok.beans;
+
+public class DotNetCourseMaterial implements ICourseMaterial {
+
+	@Override
+	public String courseMaterial() {
+		return " 1.C# OOP's concept. /n2.C# Exception handling./n3.Collection freamwork.";
+	}
+
+	@Override
+	public double price() {		
+		return 400;
+	}
+}

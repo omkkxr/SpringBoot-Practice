@@ -1,0 +1,8 @@
+package com.ok.beans;
+
+import org.springframework.stereotype.Component;
+
+@Component("wmg")
+public class WishMessageGenrator {
+	
+}

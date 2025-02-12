@@ -1,0 +1,16 @@
+package com.ok.beans;
+
+public class JavaCourseMaterial implements ICourseMaterial {
+
+	@Override
+	public String courseMaterial() {
+		return null;
+	}
+
+	@Override
+	public double price() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
