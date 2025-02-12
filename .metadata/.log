@@ -2097,3 +2097,45 @@ java.nio.file.NoSuchFileException: D:\SpringBootGit\BootProj03-Dependencyinjecti
 !MESSAGE The project description file (.project) for 'BootProj03-Dependencyinjection-JavaConfigAnnotations' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2025-02-12 13:42:55.493
 !MESSAGE The project description file (.project) for 'SpringBoot' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-12 13:49:17.565
+!MESSAGE Classpath changed for project: BootProj02-Dependencyinjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-12 13:49:17.565
+!MESSAGE Boot project ADDED: BootProj02-Dependencyinjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-12 13:49:19.126
+!MESSAGE Classpath changed for project: OnlineShop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-12 13:49:19.126
+!MESSAGE Boot project ADDED: OnlineShop
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-12 13:49:20.771
+!MESSAGE 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-12 13:49:20.960
+!MESSAGE The artifact org.hibernate:hibernate-validator:jar:6.1.6.Final has been relocated to org.hibernate.validator:hibernate-validator:jar:6.1.6.Final
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-12 13:49:46.039
+!MESSAGE Classpath changed for project: OnlineShop
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-12 13:49:46.040
+!MESSAGE Boot project REMOVED: OnlineShop
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-02-12 13:49:46.043
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-02-12 13:49:46.044
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-02-12 13:49:46.044
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-02-12 13:49:46.045
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-02-12 13:49:46.047
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2025-02-12 13:49:46.049
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
