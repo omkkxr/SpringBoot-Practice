@@ -1,6 +1,0 @@
-package com.ok.beans;
-
-public interface ICourseMaterial {
-
-	
-}

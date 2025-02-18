@@ -1,11 +1,14 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=BootProj02-Dependencyinjection
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.jdbc=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.lombok=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.oracle=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=BootProj04-RealtimeDI-AutoConfiguration
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.4.2
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Second dependency injection project
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Mini project of geting employee details
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=ok
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=BootProj02-Dependencyinjection
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=BootProj04-RealtimeDI-AutoConfiguration
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.ok
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
