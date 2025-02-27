@@ -38,8 +38,12 @@
     <fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="com.ok.beans.BillGenerator"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
-    <fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
     <fullyQualifiedTypeName name="com.ok.beans.CompanyDetails"/>
     <fullyQualifiedTypeName name="com.ok.beans.ComanyDetails1"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="co.CompanyDetails"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.ok.beans.Employee"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.env.SystemEnvironmentPropertySourceEnvironmentPostProcessor"/>
 </qualifiedTypeNameHistroy>

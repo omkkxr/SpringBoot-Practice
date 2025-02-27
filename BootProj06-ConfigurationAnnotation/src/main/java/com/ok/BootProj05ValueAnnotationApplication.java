@@ -18,7 +18,7 @@ public class BootProj05ValueAnnotationApplication {
 		System.out.println("------------------------------------------------------");
 		ComanyDetails1 c2=ctx.getBean("company2",ComanyDetails1.class);
 				System.out.println(c2);
-		
+				
 		((ConfigurableApplicationContext) ctx).close();
 	}
 
